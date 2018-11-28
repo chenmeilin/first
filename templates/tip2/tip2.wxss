@@ -1,0 +1,15 @@
+.tip2{
+  height: 50rpx;
+  display: flex;
+  align-items: center;
+}
+
+.tip2-content{
+  font-size: 10px;
+  color: #ccc;
+}
+
+.tip2-icon{
+  width:30rpx;
+  height: 30rpx;
+}

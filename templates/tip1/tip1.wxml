@@ -1,0 +1,6 @@
+<template name="tip1">
+  <view class="tip1">
+    <image class="icon" src="{{image_url}}" />
+    <text class="content">{{content}}</text>
+  </view>
+</template>

@@ -1,0 +1,29 @@
+/* pages/home/home.wxss */
+@import "/templates/tip1/tip1.wxss";
+@import "/templates/tip2/tip2.wxss";
+@import "/templates/course/course.wxss";
+
+swiper {
+  width: 750rpx;
+  height: 400rpx;
+}
+
+swiper image {
+  width: 750rpx;
+  height: 400rpx;
+}
+
+.tips{
+  padding: 10rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.course-scroll{
+  /* width:700rpx; */
+  white-space: nowrap;
+  height: 180rpx;
+  /* background-color: green; */
+  padding-left: 8rpx;
+}
